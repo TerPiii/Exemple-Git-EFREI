@@ -2,6 +2,7 @@
 cest le 3eme message trop bien
 cECI EST LE Premier message = Bonjour
 
+c4EST UN autre message, mais avec un truc en plus
 c4EST UN autre message
 
 
@@ -11,3 +12,4 @@ cEcI EsT uN bRaQuAgE
 
 
 JE SUIS DE RETOUR A LEFREI BATIMENT 2
+Je suis a disposition
